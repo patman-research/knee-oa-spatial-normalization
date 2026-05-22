@@ -1,0 +1,11 @@
+# train and val data
+
+
+train: /home/informatika/workspace/dataset/SPM_UMBY/YL11_OAI_L/dataset/train/images
+val: /home/informatika/workspace/dataset/SPM_UMBY/YL11_OAI_L/dataset/valid/images
+
+# number of classes
+nc: 4
+
+# class names
+names: ['1','2','3','4']
